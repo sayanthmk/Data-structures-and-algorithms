@@ -84,9 +84,9 @@ class Stack {
 
 void main() {
   Stack stack = Stack();
-  stack.set('name', 'ijaz');
-  stack.set('nema', 'farzana');
-  stack.set('emane', 'ponnus');
+  stack.set('name', 'sayanth');
+  stack.set('nema', 'adithyan');
+  stack.set('emane', 'nahyan');
   stack.set('age', '21');
   stack.set('gea', 26);
   // stack.remove('name');

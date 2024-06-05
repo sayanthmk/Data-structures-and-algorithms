@@ -125,7 +125,7 @@ class LinkedList {
     }
     return false;
   }
-  ///////////////search by value////////////////////
+  ///////////////search by index////////////////////
 
   searchbyposition(int index) {
     Node? temp = head;
